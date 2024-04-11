@@ -1,0 +1,16 @@
+Data structure
+- array (classic, basic one)
+- set (array-based set)
+- operations (read, search, insert, delete)
+- Ordered array
+
+Algorithms
+- Linear search
+- Searching an ordered array
+- Binary search
+- Bubble sort
+- Linear solution for an algorithm with O(N2)
+- Selection sort
+- Insertion sort
+
+Big O Notation
